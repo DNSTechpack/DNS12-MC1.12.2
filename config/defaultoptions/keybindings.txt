@@ -31,8 +31,8 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
+key_of.key.zoom:41:NONE
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.toggleAutojump:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -40,7 +40,6 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -53,11 +52,13 @@ key_quark.emote.shrug:0:NONE
 key_quark.emote.headbang:0:NONE
 key_quark.emote.weep:0:NONE
 key_quark.emote.facepalm:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
+key_enderutilities.key.togglemode:34:NONE
 key_key.xu2.searchForItems:20:NONE
 key_pe.key.armor_toggle:45:NONE
 key_pe.key.charge:47:NONE
 key_pe.key.extra_function:46:NONE
-key_pe.key.fire_projectile:19:NONE
+key_pe.key.fire_projectile:19:CONTROL
 key_pe.key.mode:34:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -73,6 +74,8 @@ key_Mekanism Armor Mode Switch:34:NONE
 key_Mekanism Feet Mode Switch:35:NONE
 key_Mekanism Voice:22:NONE
 key_key.clipboardPaste:210:NONE
+key_bbw.key.mode:50:NONE
+key_bbw.key.fluidmode:33:NONE
 key_key.chattweaks.switch_chat_view:15:SHIFT
 key_mod.chiselsandbits.chiselmode.single:0:NONE
 key_mod.chiselsandbits.chiselmode.snap2:0:NONE
@@ -101,7 +104,7 @@ key_mod.chiselsandbits.other.pickbit:0:NONE
 key_mod.chiselsandbits.other.undo:0:NONE
 key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
-key_key.craftingtweaks.rotate:19:NONE
+key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.balance:48:NONE
 key_key.craftingtweaks.clear:46:NONE
 key_key.craftingtweaks.toggleButtons:0:NONE
@@ -119,11 +122,17 @@ key_key.toggleLiquids:0:NONE
 key_key.toggleVisible:0:NONE
 key_key.immersiveengineering.magnetEquip:31:NONE
 key_key.immersiveengineering.chemthrowerSwitch:0:NONE
+key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
+key_key.integrateddynamics.logic_programmer_open_rename:-100:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
-key_invtweaks.key.sort:19:CONTROL
+key_invtweaks.key.sort:0:NONE
+key_key.itemzoom.toggle:44:SHIFT
+key_key.itemzoom.hold:0:NONE
+key_key.itemzoom.zoom.in:0:NONE
+key_key.itemzoom.zoom.out:0:NONE
 key_key.refinedstorage.focusSearchBar:15:NONE
 key_nei.options.keys.gui.enchant:45:NONE
 key_nei.options.keys.gui.potion:25:NONE
@@ -138,6 +147,7 @@ key_nei.options.keys.world.midnight:0:NONE
 key_nei.options.keys.world.rain:0:NONE
 key_nei.options.keys.world.heal:0:NONE
 key_nei.options.keys.world.creative:0:NONE
+key_xreliquary.keybind.fortune_coin:0:NONE
 key_keys.techreborn.config:25:NONE
 key_key.journeymap.zoom_in:13:NONE
 key_key.journeymap.zoom_out:12:NONE
