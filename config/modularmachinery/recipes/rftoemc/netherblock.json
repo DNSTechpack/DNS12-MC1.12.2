@@ -1,0 +1,18 @@
+{
+   "machine":"rf_to_emc",
+   "registryName":"netherblock",
+   "recipeTime":244,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick": 8192
+      },
+      {
+         "type":"item",
+         "io-type":"output",
+         "item":"tp:netherstar_block",
+         "amount":1
+      }
+   ]
+}

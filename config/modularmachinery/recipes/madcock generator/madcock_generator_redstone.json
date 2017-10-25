@@ -1,0 +1,45 @@
+{
+   "machine":"madcock_generator",
+   "registryName":"madcock_generator_redstone",
+   "recipeTime":800,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 128
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"water",
+		 "chance": 0.1
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.5
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.3
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"redstone"
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"minecraft:sugar",
+         "amount":1
+      }
+   ]
+}

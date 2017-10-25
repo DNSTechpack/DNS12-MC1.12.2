@@ -1,0 +1,25 @@
+{
+   "machine":"sterling_generator",
+   "registryName":"sterling_generator_btpeat",
+   "recipeTime":4200,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 256
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":200,
+         "fluid":"water",
+		 "chance": 0.2
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"forestry:bituminous_peat",
+         "amount":1
+      }
+   ]
+}

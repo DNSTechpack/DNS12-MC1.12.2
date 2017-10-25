@@ -1,0 +1,25 @@
+{
+   "machine":"sterling_generator",
+   "registryName":"sterling_generator_blaze",
+   "recipeTime":2400,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 512
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.3
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"minecraft:blaze_rod",
+         "amount":1
+      }
+   ]
+}

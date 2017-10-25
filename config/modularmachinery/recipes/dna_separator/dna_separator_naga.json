@@ -1,0 +1,34 @@
+{
+   "machine":"dna_separator",
+   "registryName":"dna_separator_naga",
+   "recipeTime": 600,
+   "requirements":[      
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":4000
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"rftools:syringe",
+         "amount":1,
+		 "nbt": {
+            "mobName":"Naga",
+			"level":"10",
+			"mobId":"twilightforest:naga"
+        }
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":16000,
+		 "fluid":"binnie.dna.raw"
+      },
+	  {
+         "type": "item",
+          "io-type": "output",
+          "item": "rftools:syringe"
+      }
+   ]
+}

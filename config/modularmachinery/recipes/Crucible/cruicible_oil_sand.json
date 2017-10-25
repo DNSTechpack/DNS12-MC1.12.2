@@ -1,0 +1,25 @@
+{
+   "machine":"crucible",
+   "registryName":"crucible_oil_sand",
+   "recipeTime": 100,
+   "requirements":[      
+      {
+		"type":"item",
+		"io-type": "input",
+        "item": "thermalfoundation:ore_fluid@0",
+		"amount":1
+
+	  },
+	  {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":1000,
+		 "fluid":"crude_oil"
+      }
+   ]
+}

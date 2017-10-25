@@ -1,0 +1,24 @@
+{
+   "machine":"freezer",
+   "registryName":"freezer_snow",
+   "recipeTime":100,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick": 20
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":10,
+         "fluid":"water"
+      },	  
+      {
+         "type":"item",
+         "io-type":"output",
+         "item":"minecraft:snow",
+         "amount":1
+      }
+   ]
+}

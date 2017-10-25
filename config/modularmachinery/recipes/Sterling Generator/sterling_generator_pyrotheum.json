@@ -1,0 +1,25 @@
+{
+   "machine":"sterling_generator",
+   "registryName":"sterling_generator_pyrotheum",
+   "recipeTime":24000,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 256
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"water",
+		 "chance": 0.7
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"thermalfoundation:material@1024",
+         "amount":1
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+   "machine":"sterling_generator",
+   "registryName":"sterling_generator_charcoal_block",
+   "recipeTime":16000,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 256
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"water",
+		 "chance": 0.3
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"actuallyadditions:block_misc@5",
+         "amount":1
+      }
+   ]
+}

@@ -1,0 +1,39 @@
+{
+   "machine":"extruder",
+   "registryName":"extruder_stone",
+   "recipeTime":20,
+   "priority": 1,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":20
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":10,
+         "fluid":"lava"
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":10,
+         "fluid":"water",
+         "chance":0.01
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"immersiveengineering:toolupgrade@7",
+         "amount":1,
+		 "chance":0
+      },
+      {
+         "type":"item",
+         "io-type":"output",
+         "item":"minecraft:stone@0",
+         "amount":1
+      }
+   ]
+}

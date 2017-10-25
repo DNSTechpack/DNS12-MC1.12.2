@@ -1,0 +1,32 @@
+{
+   "machine":"freezer",
+   "registryName":"freezer_ice",
+   "recipeTime":500,
+   "priority":1,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick": 20
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"water"
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"tconstruct:casting@1",
+         "amount":1,
+		 "chance":0
+      },
+      {
+         "type":"item",
+         "io-type":"output",
+         "item":"minecraft:ice",
+         "amount":1
+      }
+   ]
+}

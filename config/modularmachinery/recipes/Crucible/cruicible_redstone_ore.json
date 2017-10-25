@@ -1,0 +1,25 @@
+{
+   "machine":"crucible",
+   "registryName":"crucible_redstone_ore",
+   "recipeTime": 100,
+   "requirements":[      
+      {
+		"type":"item",
+		"io-type": "input",
+        "item": "thermalfoundation:ore_fluid@2",
+		"amount":1
+
+	  },
+	  {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":1000,
+		 "fluid":"redstone"
+      }
+   ]
+}

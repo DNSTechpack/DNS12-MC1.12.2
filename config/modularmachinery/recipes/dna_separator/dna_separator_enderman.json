@@ -1,0 +1,34 @@
+{
+   "machine":"dna_separator",
+   "registryName":"dna_separator_enderman",
+   "recipeTime": 200,
+   "requirements":[      
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":850
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"rftools:syringe",
+         "amount":1,
+		 "nbt": {
+            "mobName":"Enderman",
+			"level":"10",
+			"mobId":"minecraft:enderman"
+        }
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":1000,
+		 "fluid":"binnie.dna.raw"
+      },
+	  {
+         "type": "item",
+          "io-type": "output",
+          "item": "rftools:syringe"
+      }
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "machine":"madcock_generator",
+   "registryName":"madcock_generator_nether",
+   "recipeTime":20,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 600000000
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"cryotheum"
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"glowstone"
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"minecraft:nether_star",
+         "amount":1
+      }
+   ]
+}
