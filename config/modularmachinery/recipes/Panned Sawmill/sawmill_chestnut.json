@@ -1,0 +1,37 @@
+{
+   "machine":"panned_sawmill",
+   "registryName":"psawmill_chestnut",
+   "recipeTime": 100,
+   "requirements":[      
+	  {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "amount":1,
+		 "item":"forestry:logs.1@0"
+      },
+	  {
+         "type":"item",
+         "io-type":"output",
+         "amount":6,
+		 "item":"forestry:planks.0@4"
+      },
+	  {
+         "type":"item",
+         "io-type":"output",
+         "amount":1,
+		 "item":"thermalfoundation:material@800"
+      },
+	  {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":10,
+		 "fluid":"sap",
+		 "chance":0.15
+      }
+   ]
+}

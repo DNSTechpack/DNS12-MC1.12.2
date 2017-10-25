@@ -1,0 +1,62 @@
+{
+	"leaves_oak": [
+		"minecraft:leaves@0",
+		"minecraft:leaves@4",
+		"minecraft:leaves@8",
+		"minecraft:leaves@12"
+	],
+	"leaves_spruce": [
+		"minecraft:leaves@1",
+		"minecraft:leaves@5",
+		"minecraft:leaves@9",
+		"minecraft:leaves@13"
+	],
+	"leaves_birch": [
+		"minecraft:leaves@2",
+		"minecraft:leaves@6",
+		"minecraft:leaves@10",
+		"minecraft:leaves@14"
+	],
+	"leaves_jungle": [
+		"minecraft:leaves@3",
+		"minecraft:leaves@7",
+		"minecraft:leaves@11",
+		"minecraft:leaves@15"
+	],
+	"leaves_acacia": [
+		"minecraft:leaves2@0",
+		"minecraft:leaves2@4",
+		"minecraft:leaves2@8",
+		"minecraft:leaves2@12"
+	],
+	"leaves_darkoak": [
+		"minecraft:leaves2@1",
+		"minecraft:leaves2@5",
+		"minecraft:leaves2@9",
+		"minecraft:leaves2@13"
+	],
+	"leaves_olive": [
+		"rustic:leaves@0",
+		"rustic:leaves@4",
+		"rustic:leaves@8",
+		"rustic:leaves@12"
+	],
+	"leaves_ironwood": [
+		"rustic:leaves@1",
+		"rustic:leaves@5",
+		"rustic:leaves@9",
+		"rustic:leaves@13"
+	],
+	"leaves_redcedar": [
+		"totemic:cedar_leaves@0",
+		"totemic:cedar_leaves@4",
+		"totemic:cedar_leaves@8",		
+		"totemic:cedar_leaves@12"
+	],
+	"leaves_fir": [
+		"traverse:fir_leaves@0",
+		"traverse:fir_leaves@1",
+		"traverse:fir_leaves@2",
+		"traverse:fir_leaves@3"
+	]
+}

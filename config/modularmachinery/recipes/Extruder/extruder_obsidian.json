@@ -1,0 +1,47 @@
+{
+   "machine":"extruder",
+   "registryName":"extruder_obsidian",
+   "recipeTime":100,
+   "priority": 2,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":20
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"lava"
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":10,
+         "fluid":"water",
+         "chance":0.1
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"immersiveengineering:toolupgrade@7",
+         "amount":1,
+		 "chance":0
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"tconstruct:casting@1",
+         "amount":1,
+		 "chance":0
+      },
+      {
+         "type":"item",
+         "io-type":"output",
+         "item":"minecraft:obsidian",
+         "amount":1,
+         "chance":0.9
+      }
+   ]
+}

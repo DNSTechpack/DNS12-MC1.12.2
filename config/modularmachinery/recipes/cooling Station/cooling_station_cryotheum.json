@@ -1,0 +1,31 @@
+{
+   "machine":"cooling_station",
+   "registryName":"cooling_station_cryothem",
+   "recipeTime":500,
+   "priority":1,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick": 4096
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"heavywater"
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"minecraft:packed_ice",
+         "amount":1
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+		 "amount":1000,
+         "fluid":"cryotheum"
+      }
+   ]
+}

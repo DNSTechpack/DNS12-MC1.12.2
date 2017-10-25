@@ -1,0 +1,18 @@
+{
+    "machine": "concrete_mixer",
+    "registryName": "concrete_mixer_brown",
+    "recipeTime": 10,
+	"priority": 3,
+    "requirements": [
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "minecraft:concrete_powder@12"
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:concrete@12"
+        }
+    ]
+}

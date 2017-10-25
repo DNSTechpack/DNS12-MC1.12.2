@@ -1,0 +1,45 @@
+{
+   "machine":"madcock_generator",
+   "registryName":"madcock_generator_glowstone",
+   "recipeTime":400,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 128
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"water",
+		 "chance": 0.1
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.5
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.3
+      },
+	  {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"glowstone"
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"minecraft:gunpowder",
+         "amount":1
+      }
+   ]
+}

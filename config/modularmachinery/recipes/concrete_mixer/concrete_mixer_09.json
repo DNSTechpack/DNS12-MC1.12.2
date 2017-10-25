@@ -1,0 +1,18 @@
+{
+    "machine": "concrete_mixer",
+    "registryName": "concrete_mixer_cyan",
+    "recipeTime": 10,
+	"priority": 6,
+    "requirements": [
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "minecraft:concrete_powder@9"
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:concrete@9"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+   "machine":"crucible",
+   "registryName":"crucible_aerotheum",
+   "recipeTime": 200,
+   "requirements":[      
+      {
+		"type":"item",
+		"io-type": "input",
+        "item": "thermalfoundation:material@1026",
+		"amount":1
+
+	  },
+	  {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":250,
+		 "fluid":"aerotheum"
+      }
+   ]
+}

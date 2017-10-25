@@ -1,0 +1,34 @@
+{
+   "machine":"dna_separator",
+   "registryName":"dna_separator_witch",
+   "recipeTime": 200,
+   "requirements":[      
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"rftools:syringe",
+         "amount":1,
+		 "nbt": {
+            "mobName":"Witch",
+			"level":"10",
+			"mobId":"minecraft:witch"
+        }
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":750,
+		 "fluid":"binnie.dna.raw"
+      },
+	  {
+         "type": "item",
+          "io-type": "output",
+          "item": "rftools:syringe"
+      }
+   ]
+}

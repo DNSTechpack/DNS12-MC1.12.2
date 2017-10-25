@@ -1,0 +1,34 @@
+{
+   "machine":"dna_separator",
+   "registryName":"dna_separator_moo",
+   "recipeTime": 200,
+   "requirements":[      
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":4050
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"rftools:syringe",
+         "amount":1,
+		 "nbt": {
+            "mobName":"Mooshroom",
+			"level":"10",
+			"mobId":"minecraft:mooshroom"
+        }
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":1500,
+		 "fluid":"binnie.dna.raw"
+      },
+	  {
+         "type": "item",
+          "io-type": "output",
+          "item": "rftools:syringe"
+      }
+   ]
+}

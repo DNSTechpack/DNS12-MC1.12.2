@@ -1,0 +1,25 @@
+{
+   "machine":"sterling_generator",
+   "registryName":"sterling_generator_peat",
+   "recipeTime":2000,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick": 256
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":100,
+         "fluid":"water",
+		 "chance": 0.1
+      },
+      {
+         "type":"item",
+         "io-type":"input",
+         "item":"forestry:peat",
+         "amount":1
+      }
+   ]
+}

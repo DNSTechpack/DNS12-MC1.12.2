@@ -1,0 +1,34 @@
+{
+   "machine":"dna_separator",
+   "registryName":"dna_separator_zombie",
+   "recipeTime": 200,
+   "requirements":[      
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+	  {
+         "type":"item",
+         "io-type":"input",
+         "item":"rftools:syringe",
+         "amount":1,
+		 "nbt": {
+            "mobName":"Zombie",
+			"level":"10",
+			"mobId":"minecraft:zombie"
+        }
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":500,
+		 "fluid":"binnie.dna.raw"
+      },
+	  {
+         "type": "item",
+          "io-type": "output",
+          "item": "rftools:syringe"
+      }
+   ]
+}

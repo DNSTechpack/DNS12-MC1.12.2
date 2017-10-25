@@ -1,0 +1,25 @@
+{
+   "machine":"crucible",
+   "registryName":"crucible_oil_shard",
+   "recipeTime": 50,
+   "requirements":[      
+      {
+		"type":"item",
+		"io-type": "input",
+        "item": "thermalfoundation:material@892",
+		"amount":1
+
+	  },
+	  {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":40
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":250,
+		 "fluid":"crude_oil"
+      }
+   ]
+}
