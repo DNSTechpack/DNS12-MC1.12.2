@@ -4540,7 +4540,7 @@
             "colour": "Gold2",
             "type": "mods",
             "client": false,
-            "optional": false,
+            "optional": true,
             "server": true,
             "selected": false,
             "recommended": true,
@@ -4618,6 +4618,7 @@
             "authors": [
                 "nallar"
             ],
+            "colour": "Gold2",
             "type": "mods",
             "client": false,
             "optional": true,
@@ -4656,6 +4657,30 @@
             "hidden": false,
             "library": false,
             "description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer."
+        },
+        {
+            "name": "FastAsyncWorldEdit",
+            "version": "17.09.24.908",
+            "url": "packs/DNSTechpack/files/DNS12/FastAsyncWorldEdit-forge112-17.09.24-c3d12f1-908-16.6.5.jar",
+            "file": "FastAsyncWorldEdit-forge112-17.09.24-c3d12f1-908-16.6.5.jar",
+            "download": "server",
+            "md5": "3ddad9d11bf8bc42eb8ceb934b7a7e84",
+            "filesize": 5247526,
+            "force": false,
+            "website": "https://github.com/boy0001/FastAsyncWorldedit",
+            "colour": "Gold2",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "depends": [
+                "WorldEdit"
+            ],
+            "description": "Worldedit. Faster and asyncronous."
         },
         {
             "name": "WorldEdit CUI",
