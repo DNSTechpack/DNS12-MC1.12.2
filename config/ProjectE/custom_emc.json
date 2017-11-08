@@ -1,4 +1,240 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:skull|1",
+      "emc": 1024
+    },
+	{
+      "item": "mekanism:ingot|4",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:metal|6",
+      "emc": 1152
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 64
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 1
+    },
+	{
+      "item": "minecraft:skull|2",
+      "emc": 512
+    },
+	{
+      "item": "minecraft:skull|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:skull|4",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:Ingot|4",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:itemCrystal|0",
+      "emc": 64
+    },
+    {
+      "item": "actuallyadditions:itemCrystal|1",
+      "emc": 864
+    },
+    {
+      "item": "mekanism:EnrichedAlloy|0",
+      "emc": 320
+    },
+    {
+      "item": "mekanism:ReinforcedAlloy|0",
+      "emc": 8512
+    },
+    {
+      "item": "mekanism:ControlCircuit|0",
+      "emc": 576
+    },
+    {
+      "item": "mekanism:ControlCircuit|1",
+      "emc": 1216
+    },
+    {
+      "item": "mekanism:AtomicAlloy|0",
+      "emc": 8576
+    },
+	{
+      "item": "fluxnetworks:Flux|0",
+      "emc": 64
+    },
+	{
+      "item": "extrautils2:decorativesolid|3",
+      "emc": 1
+    },
+	{
+      "item": "tconstruct:materials|17",
+      "emc": 576
+    },
+    {
+      "item": "extrautils2:ingredients|10",
+      "emc": 1094
+    },
+	{
+      "item": "actuallyadditions:itemMisc|5",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:BasicBlock|8",
+      "emc": 264
+    },
+    {
+      "item": "mekanism:OtherDust|6",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:Dust|2",
+      "emc": 512
+    },
+	{
+      "item": "mekanism:MultipartTransmitter|0",
+      "emc": 136
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|1",
+      "emc": 176
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|2",
+      "emc": 1240
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|3",
+      "emc": 2312
+    },
+	{
+      "item": "mekanism:ControlCircuit|2",
+      "emc": 18240
+    },
+    {
+      "item": "mekanism:SpeedUpgrade|0",
+      "emc": 1154
+    },
+    {
+      "item": "mekanism:EnergyUpgrade|0",
+      "emc": 2690
+    },
+	{
+      "item": "mekanism:GasUpgrade|0",
+      "emc": 898
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|8",
+      "emc": 1025
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|9",
+      "emc": 1065
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|10",
+      "emc": 2129
+    },
+    {
+      "item": "mekanism:MultipartTransmitter|11",
+      "emc": 3201
+    },
+    {
+      "item": "mekanism:GasTank|0",
+      "emc": 2304
+    },
+    {
+      "item": "environmentaltech:basalt|0",
+      "emc": 1
+    },
+    {
+      "item": "environmentaltech:alabaster|0",
+      "emc": 1
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 32
+    },
+    {
+      "item": "storagedrawers:upgradeTemplate|0",
+      "emc": 144
+    },
+	{
+      "item": "minecraft:stone_slab|5",
+      "emc": 1
+    },
+	{
+      "item": "thermalfoundation:material|2049",
+      "emc": 73
+    },
+	{
+      "item": "thermalfoundation:material|1025",
+      "emc": 581
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 464
+    },
+    {
+      "item": "thermalfoundation:material|354",
+      "emc": 4512
+    },
+    {
+      "item": "mekanism:MachineBlock|12",
+      "emc": 1032
+    },
+    {
+      "item": "fluxnetworks:fluxcore|0",
+      "emc": 568
+    },
+    {
+      "item": "fluxnetworks:fluxblock|0",
+      "emc": 3552
+    },
+    {
+      "item": "actuallyadditions:item_crystal|0",
+      "emc": 64
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_crystal|5",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 832
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 769
+    },
+    {
+      "item": "minecraft:stained_glass_pane|15",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:machineblock2|11",
+      "emc": 1280
+    },
+    {
+      "item": "extrautils2:ingredients|9",
+      "emc": 4096
+    },
+	{
+      "item": "actuallyadditions:itemMisc|5",
+      "emc": 64
+    }
+  ]
 }
