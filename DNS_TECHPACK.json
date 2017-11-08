@@ -1113,32 +1113,6 @@
             "description": "A bunch of useful things."
         },
         {
-            "name": "Extreme Energy",
-            "version": "1.1.2",
-            "url": "packs/DNSTechpack/files/DNS12/ExtremeEnergy-1.1.2.jar",
-            "file": "ExtremeEnergy-1.1.2.jar",
-            "download": "server",
-            "md5": "29d8c4a31999d8022283e18cfa05e74d",
-            "filesize": 3913478,
-            "curse_id": 280962,
-            "curse_file_id": 2497952,
-            "force": false,
-            "website": "http://www.curseforge.com/projects/extreme-energy/",
-            "donation": "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/extreme-energy?gameCategorySlug=mc-mods&projectID=280962&cn=Add+special+instructions+to+the+addon+author()&business=serpinin17%40mail.ru&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://minecraft.curseforge.com/projects/extreme-energy?gameCategorySlug=mc-mods&projectID=280962&lc=US&item_name=Extreme+Energy+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD",
-            "authors": [
-                "Minebot"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "Extreme Energy adds implants, many machines, new resources and energy in chunks"
-        },
-        {
             "name": "Extreme Reactors",
             "version": "1.12-0.4.5.44",
             "url": "packs/DNSTechpack/files/DNS12/ExtremeReactors-1.12-0.4.5.44.jar",
@@ -2528,14 +2502,14 @@
         },
         {
             "name": "TOP Addons",
-            "version": "1.12.2-1.1.3",
-            "url": "packs/DNSTechpack/files/DNS12/topaddons-1.12.2-1.1.3.jar",
-            "file": "topaddons-1.12.2-1.1.3.jar",
+            "version": "1.12.2-1.1.2",
+            "url": "packs/DNSTechpack/files/DNS12/topaddons-1.12.2-1.1.2.jar",
+            "file": "topaddons-1.12.2-1.1.2.jar",
             "download": "server",
-            "md5": "29b0489d7c33d31d59e70ead9998bf5d",
-            "filesize": 183202,
+            "md5": "9da341a2a2b10c544c56bddf1a2d1f1a",
+            "filesize": 183323,
             "curse_id": 247111,
-            "curse_file_id": 2497048,
+            "curse_file_id": 2493879,
             "force": false,
             "website": "http://drmanganese.github.io",
             "authors": [
