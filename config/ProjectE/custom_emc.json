@@ -235,6 +235,58 @@
 	{
       "item": "actuallyadditions:itemMisc|5",
       "emc": 64
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|1",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|2",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|3",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|4",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|5",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|6",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|7",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|8",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|9",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|10",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|11",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|12",
+      "emc": 0
+    },
+    {
+      "item": "rftoolsdim:known_dimlet|13",
+      "emc": 0
     }
   ]
 }
