@@ -455,6 +455,166 @@
     {
       "item": "calculator:rottenpear|0",
       "emc": 32
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 262144
+    },
+    {
+      "item": "actuallyadditions:item_crystal|1",
+      "emc": 864
+    },
+    {
+      "item": "actuallyadditions:item_crystal|2",
+      "emc": 8192
+    },
+    {
+      "item": "actuallyadditions:item_crystal|3",
+      "emc": 128
+    },
+    {
+      "item": "actuallyadditions:item_crystal|4",
+      "emc": 16384
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|0",
+      "emc": 673
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|1",
+      "emc": 8980
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|2",
+      "emc": 73840
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|3",
+      "emc": 1205
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|4",
+      "emc": 147549
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|5",
+      "emc": 2339
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_green_wall|0",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_white_wall|0",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_item|0",
+      "emc": 910
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_fluids|0",
+      "emc": 910
+    },
+    {
+      "item": "actuallyadditions:block_black_lotus|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_water_bowl|0",
+      "emc": 7
+    },
+    {
+      "item": "actuallyadditions:item_misc|13",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_misc|23",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_misc|24",
+      "emc": 160
+    },
+    {
+      "item": "actuallyadditions:item_misc|21",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_color_lens|0",
+      "emc": 40
+    },
+    {
+      "item": "actuallyadditions:item_explosion_lens|0",
+      "emc": 40
+    },
+    {
+      "item": "actuallyadditions:item_damage_lens|0",
+      "emc": 40
+    },
+    {
+      "item": "actuallyadditions:item_coffee_seed|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_rice_seed|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_coffee_beans|0",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_food|16",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_misc|15",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|0",
+      "emc": 83489
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|1",
+      "emc": 84173
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|2",
+      "emc": 86433
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|3",
+      "emc": 84753
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|4",
+      "emc": 99745
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|5",
+      "emc": 83489
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|6",
+      "emc": 86561
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|7",
+      "emc": 83617
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|8",
+      "emc": 84192
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|9",
+      "emc": 90881
     }
   ]
 }
