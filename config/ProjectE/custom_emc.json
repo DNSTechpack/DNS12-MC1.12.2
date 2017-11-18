@@ -287,6 +287,174 @@
     {
       "item": "rftoolsdim:known_dimlet|13",
       "emc": 0
+    },
+    {
+      "item": "calculator:enrichedgold|0",
+      "emc": 528
+    },
+    {
+      "item": "calculator:enrichedgoldingot|0",
+      "emc": 528
+    },
+    {
+      "item": "calculator:weakeneddiamond|0",
+      "emc": 1616
+    },
+    {
+      "item": "calculator:firediamond|0",
+      "emc": 17920
+    },
+    {
+      "item": "calculator:reinforcedironingot|0",
+      "emc": 264
+    },
+    {
+      "item": "calculator:redstoneingot|0",
+      "emc": 32
+    },
+    {
+      "item": "calculator:purifiedobsidian|0",
+      "emc": 256
+    },
+    {
+      "item": "calculator:flawlessdiamond|0",
+      "emc": 16454
+    },
+    {
+      "item": "calculator:shardtanzanite|0",
+      "emc": 86
+    },
+    {
+      "item": "calculator:shardamethyst|0",
+      "emc": 86
+    },
+    {
+      "item": "calculator:flawlessglass|0",
+      "emc": 8227
+    },
+    {
+      "item": "calculator:storagechamber|0",
+      "emc": 14351
+    },
+    {
+      "item": "calculator:enrichedcoal|0",
+      "emc": 192
+    },
+    {
+      "item": "calculator:purifiedcoal|0",
+      "emc": 720
+    },
+    {
+      "item": "calculator:weatherstation|0",
+      "emc": 4612
+    },
+    {
+      "item": "calculator:processingchamber|0",
+      "emc": 44646
+    },
+    {
+      "item": "calculator:electricdiamond|0",
+      "emc": 17920
+    },
+    {
+      "item": "calculator:energymodule|0",
+      "emc": 736
+    },
+    {
+      "item": "calculator:storagemodule|0",
+      "emc": 591
+    },
+    {
+      "item": "calculator:enddiamond|0",
+      "emc": 17985
+    },
+    {
+      "item": "calculator:nutritionmodule|0",
+      "emc": 123598
+    },
+    {
+      "item": "calculator:terrainmodule|0",
+      "emc": 112
+    },
+    {
+      "item": "calculator:advancedterrainmodule|0",
+      "emc": 2304
+    },
+    {
+      "item": "calculator:locatormodule|0",
+      "emc": 1632
+    },
+    {
+      "item": "calculator:transmitter|0",
+      "emc": 18448
+    },
+    {
+      "item": "calculator:conductormast|0",
+      "emc": 19392
+    },
+    {
+      "item": "calculator:starchextractor|0",
+      "emc": 1510
+    },
+    {
+      "item": "calculator:rainsensor|0",
+      "emc": 1551
+    },
+    {
+      "item": "calculator:lantern|0",
+      "emc": 273
+    },
+    {
+      "item": "calculator:scarecrow|0",
+      "emc": 360
+    },
+    {
+      "item": "calculator:wrench|0",
+      "emc": 52
+    },
+    {
+      "item": "calculator:sickle|0",
+      "emc": 48
+    },
+    {
+      "item": "calculator:broccoliseeds|0",
+      "emc": 52
+    },
+    {
+      "item": "calculator:prunaeseeds|0",
+      "emc": 208
+    },
+    {
+      "item": "calculator:gaslanternoff|0",
+      "emc": 546
+    },
+    {
+      "item": "calculator:firecoal|0",
+      "emc": 256
+    },
+    {
+      "item": "calculator:babygrenade|0",
+      "emc": 1004
+    },
+    {
+      "item": "calculator:grenade|0",
+      "emc": 2008
+    },
+    {
+      "item": "calculator:broccoli|0",
+      "emc": 128
+    },
+    {
+      "item": "calculator:fiddledewfruit|0",
+      "emc": 512
+    },
+    {
+      "item": "calculator:pear|0",
+      "emc": 256
+    },
+    {
+      "item": "calculator:rottenpear|0",
+      "emc": 32
     }
   ]
 }
