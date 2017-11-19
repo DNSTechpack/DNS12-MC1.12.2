@@ -12,7 +12,7 @@
          "type":"item",
          "io-type":"output",
          "item":"tp:netherstar_block",
-         "amount":1
+         "amount":5
       }
    ]
 }
