@@ -1,5 +1,5 @@
 {
-    "version": "12.0.2.0",
+    "version": "12.0.2.1",
     "minecraft": "1.12.2",
     "memory": 2048,
     "mainClass": {
@@ -391,14 +391,14 @@
         },
         {
             "name": "Advanced Rocketry",
-            "version": "1.12.2-1.2.5a-22",
-            "url": "packs/DNSTechpack/files/DNS12/AdvancedRocketry-1.12.2-1.2.5a-22.jar",
-            "file": "AdvancedRocketry-1.12.2-1.2.5a-22.jar",
+            "version": "1.12.2-1.2.5a",
+            "url": "packs/DNSTechpack/files/DNS12/AdvancedRocketry-1.12.2-1.2.5a.jar",
+            "file": "AdvancedRocketry-1.12.2-1.2.5a.jar",
             "download": "server",
-            "md5": "b50d4adf207749c9afc6e11fd0d82aae",
-            "filesize": 11533585,
+            "md5": "383616bb9dd714809dd5ac87bed81bd6",
+            "filesize": 11526237,
             "curse_id": 236542,
-            "curse_file_id": 2499974,
+            "curse_file_id": 2496121,
             "force": false,
             "website": "http://minecraft.curseforge.com/projects/advanced-rocketry",
             "authors": [
@@ -3580,14 +3580,14 @@
         },
         {
             "name": "libVulpes",
-            "version": "1.12.2-0.2.6-12",
-            "url": "packs/DNSTechpack/files/DNS12/LibVulpes-1.12.2-0.2.6-12-universal.jar",
-            "file": "LibVulpes-1.12.2-0.2.6-12-universal.jar",
+            "version": "1.12.2-0.2.6",
+            "url": "packs/DNSTechpack/files/DNS12/LibVulpes-1.12.2-0.2.6-universal.jar",
+            "file": "LibVulpes-1.12.2-0.2.6-universal.jar",
             "download": "server",
-            "md5": "c4f9d0a09740d20c060c0382b6171e79",
-            "filesize": 492407,
+            "md5": "20d379eb06f7da9dcef316849938f6cf",
+            "filesize": 491237,
             "curse_id": 236541,
-            "curse_file_id": 2501438,
+            "curse_file_id": 2493422,
             "force": false,
             "website": "http://minecraft.curseforge.com/projects/libvulpes",
             "authors": [

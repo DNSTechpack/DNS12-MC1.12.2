@@ -7,7 +7,7 @@
 -->
 <version>
 	<pack>
-        <version>12.0.2.0</version>
+        <version>12.0.2.1</version>
         <minecraft>1.12.2</minecraft>
         <memory>2048</memory>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
@@ -86,7 +86,7 @@
         
         <mod name="Advanced Generators" version="0.9.20.10" url="packs/DNSTechpack/files/DNS12/generators-0.9.20.10-mc1.12.2.jar" file="generators-0.9.20.10-mc1.12.2.jar" md5="18c6564a58eb943c819bf1d555a1369c" download="server" type="mods" website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/advanced-generators?gameCategorySlug=mc-mods&amp;projectID=223622&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/advanced-generators?gameCategorySlug=mc-mods&amp;projectID=223622&amp;lc=US&amp;item_name=Advanced+Generators+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="bdew" description="Freeform Multiblock generators that produce MJ, RF and EU"/>
         
-        <mod name="Advanced Rocketry" version="1.12.2-1.2.5a-22" url="packs/DNSTechpack/files/DNS12/AdvancedRocketry-1.12.2-1.2.5a-22.jar" file="AdvancedRocketry-1.12.2-1.2.5a-22.jar" md5="b50d4adf207749c9afc6e11fd0d82aae" download="server" type="mods" website="http://minecraft.curseforge.com/projects/advanced-rocketry" authors="zmaster587" description="A space mod for minecraft, adds planets, rockets, and some machines"/>
+        <mod name="Advanced Rocketry" version="1.12.2-1.2.5a" url="packs/DNSTechpack/files/DNS12/AdvancedRocketry-1.12.2-1.2.5a.jar" file="AdvancedRocketry-1.12.2-1.2.5a.jar" md5="383616bb9dd714809dd5ac87bed81bd6" download="server" type="mods" website="http://minecraft.curseforge.com/projects/advanced-rocketry" authors="zmaster587" description="A space mod for minecraft, adds planets, rockets, and some machines"/>
         
         <mod name="AE2 Stuff" version="0.7.0.4" url="packs/DNSTechpack/files/DNS12/ae2stuff-0.7.0.4-mc1.12.2.jar" file="ae2stuff-0.7.0.4-mc1.12.2.jar" md5="8594b7501c1ecc1bdaaa8ef42b7dbdda" download="server" type="mods" website="http://bdew.net" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ae2-stuff?gameCategorySlug=mc-mods&amp;projectID=225194&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/ae2-stuff?gameCategorySlug=mc-mods&amp;projectID=225194&amp;lc=US&amp;item_name=AE2+Stuff+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="bdew" description="Various Extensions for Applied Energistics 2"/>
         
@@ -337,7 +337,7 @@
         
         <mod name="MCMultiPart" version="2.3.3" url="packs/DNSTechpack/files/DNS12/MCMultiPart-2.3.3.jar" file="MCMultiPart-2.3.3.jar" md5="6970ae747394ab201325c4f56d762e50" download="server" type="mods" website="http://www.curseforge.com/projects/mcmultipart/" authors="amadornes" description="A universal multipart API for modern Minecraft"/>
         
-        <mod name="libVulpes" version="1.12.2-0.2.6-12" url="packs/DNSTechpack/files/DNS12/LibVulpes-1.12.2-0.2.6-12-universal.jar" file="LibVulpes-1.12.2-0.2.6-12-universal.jar" md5="c4f9d0a09740d20c060c0382b6171e79" download="server" type="mods" website="http://minecraft.curseforge.com/projects/libvulpes" authors="zmaster587" description="A Library containing code for multiblocks and ore/item registration and access"/>
+        <mod name="libVulpes" version="1.12.2-0.2.6" url="packs/DNSTechpack/files/DNS12/LibVulpes-1.12.2-0.2.6-universal.jar" file="LibVulpes-1.12.2-0.2.6-universal.jar" md5="20d379eb06f7da9dcef316849938f6cf" download="server" type="mods" website="http://minecraft.curseforge.com/projects/libvulpes" authors="zmaster587" description="A Library containing code for multiblocks and ore/item registration and access"/>
         
         <mod name="Mod Name Tooltip" version="1.10.0" url="packs/DNSTechpack/files/DNS12/modnametooltip_1.12.2-1.10.0.jar" file="modnametooltip_1.12.2-1.10.0.jar" md5="6dda75b858fc93e2d18ccd42585aec03" download="server" type="mods" website="https://github.com/mezz/ModNameTooltip" server="no" authors="mezz" description="Shows the mod an ItemStack is from on its tooltip."/>
         
