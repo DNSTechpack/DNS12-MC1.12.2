@@ -22,8 +22,8 @@ mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatc
 mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:3>, <modularmachinery:blockfluidinputhatch:2>, <mekanism:machineblock2:11>, <mekanism:machineblock2:11>, <mekanism:machineblock2:11>, <mekanism:machineblock2:11>, 50000, 300, [0.5, 0.0, 0.0]);
 mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:4>, <modularmachinery:blockfluidinputhatch:3>, <quantumstorage:quantum_tank>, <quantumstorage:quantum_tank>, <quantumstorage:quantum_tank>, <quantumstorage:quantum_tank>, 50000, 300, [0.5, 0.0, 0.0]);
 mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:5>, <modularmachinery:blockfluidinputhatch:4>, <industrialforegoing:black_hole_tank>, <industrialforegoing:black_hole_tank>, <industrialforegoing:black_hole_tank>, <industrialforegoing:black_hole_tank>, 50000, 300, [0.5, 0.0, 0.0]);
-mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:6>, <modularmachinery:blockfluidinputhatch:5>, <advancedrocketry:pressuretank:3>, <advancedrocketry:pressuretank:3>, <advancedrocketry:pressuretank:3>, <advancedrocketry:pressuretank:3>, 50000, 300, [0.5, 0.0, 0.0]);
-mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:7>, <modularmachinery:blockfluidinputhatch:6>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, 50000, 300, [0.5, 0.0, 0.0]);
+mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:6>, <modularmachinery:blockfluidinputhatch:5>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, <enderstorage:ender_storage:1>, 50000, 300, [0.5, 0.0, 0.0]);
+mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockfluidinputhatch:7>, <modularmachinery:blockfluidinputhatch:6>, <projecte:item.pe_evertide_amulet>, <projecte:item.pe_evertide_amulet>, <projecte:item.pe_evertide_amulet>, <projecte:item.pe_evertide_amulet>, 50000, 300, [0.5, 0.0, 0.0]);
 
 ##Fluid Outputs
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<modularmachinery:blockfluidoutputhatch:1>, <modularmachinery:blockfluidinputhatch:0>, 1000);
@@ -51,6 +51,21 @@ mods.actuallyadditions.AtomicReconstructor.addRecipe(<modularmachinery:blockener
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<modularmachinery:blockenergyoutputhatch:5>, <modularmachinery:blockfluidoutputhatch:4>, 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<modularmachinery:blockenergyoutputhatch:6>, <modularmachinery:blockfluidoutputhatch:5>, 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<modularmachinery:blockenergyoutputhatch:7>, <modularmachinery:blockfluidoutputhatch:6>, 1000);
+
+##Machine Gearbox
+recipes.addShapeless(<modularmachinery:blockcasing:3>, [<modularmachinery:blockcasing:0>, <immersiveengineering:material:8>]);
+recipes.addShapeless(<modularmachinery:blockcasing:3> * 2, [<modularmachinery:blockcasing:0>, <immersiveengineering:material:9>]);
+
+##Machine Vent
+recipes.addShaped(<modularmachinery:blockcasing:1>, [
+														[<modularmachinery:blockcasing:0>, <minecraft:iron_bars>, <modularmachinery:blockcasing:0>],
+														[<minecraft:iron_bars>, null, <minecraft:iron_bars>],
+														[<modularmachinery:blockcasing:0>, <minecraft:iron_bars>, <modularmachinery:blockcasing:0>]
+														]);
+mods.actuallyadditions.Empowerer.addRecipe(<modularmachinery:blockcasing:5>, <modularmachinery:blockcasing:0>, <immersiveengineering:material:27>, <appliedenergistics2:material:22>, <appliedenergistics2:material:23>, <appliedenergistics2:material:23>, 20000, 800, [0.5, 0.3, 0.0]);
+
+
+
 
 
 
