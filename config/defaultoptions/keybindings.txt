@@ -104,7 +104,7 @@ key_mod.chiselsandbits.other.pickbit:0:NONE
 key_mod.chiselsandbits.other.undo:0:NONE
 key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
-key_key.craftingtweaks.rotate:19:NONE
+key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.balance:48:NONE
 key_key.craftingtweaks.clear:46:NONE
 key_key.craftingtweaks.toggleButtons:0:NONE

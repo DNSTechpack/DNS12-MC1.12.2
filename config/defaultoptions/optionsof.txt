@@ -25,7 +25,7 @@ ofPortalParticles:true
 ofPotionParticles:true
 ofFireworkParticles:true
 ofDrippingWaterLava:true
-ofAnimatedTerrain:true
+ofAnimatedTerrain:false
 ofAnimatedTextures:true
 ofRainSplash:true
 ofLagometer:false
