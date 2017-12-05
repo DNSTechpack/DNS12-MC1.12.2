@@ -22,6 +22,11 @@
     },
     {
       "target": "black",
+      "weight": 12,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
+      "target": "black",
       "weight": 64,
       "id": "OD:oreCoal"
     },
@@ -209,6 +214,26 @@
       "target": "black",
       "weight": 18,
       "id": "OD:oreQuartzBlack"
+    },
+    {
+      "target": "white",
+      "weight": 13,
+      "id": "OD:oreMagnesium"
+    },
+    {
+      "target": "white",
+      "weight": 13,
+      "id": "OD:oreLithium"
+    },
+    {
+      "target": "black",
+      "weight": 13,
+      "id": "OD:oreThroium"
+    },
+    {
+      "target": "siver",
+      "weight": 13,
+      "id": "OD:oreBoron"
     },
     {
       "target": "brown",
