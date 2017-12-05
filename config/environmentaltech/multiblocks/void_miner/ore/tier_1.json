@@ -191,6 +191,26 @@
       "id": "OD:oreQuartzBlack"
     },
     {
+      "target": "white",
+      "weight": 13,
+      "id": "OD:oreMagnesium"
+    },
+    {
+      "target": "white",
+      "weight": 13,
+      "id": "OD:oreLithium"
+    },
+    {
+      "target": "black",
+      "weight": 13,
+      "id": "OD:oreThroium"
+    },
+    {
+      "target": "siver",
+      "weight": 13,
+      "id": "OD:oreBoron"
+    },
+    {
       "target": "brown",
       "weight": 9,
       "id": "OD:oreResonating"
@@ -249,6 +269,11 @@
       "target": "erodium",
       "weight": 8,
       "id": "environmentaltech:erodium_crystal"
+    },
+    {
+      "target": "black",
+      "weight": 4,
+      "id": "environmentaltech:lonsdaleite_crystal"
     }
   ]
 }

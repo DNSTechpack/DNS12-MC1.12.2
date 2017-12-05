@@ -1,0 +1,18 @@
+{
+   "machine":"solidifier",
+   "registryName":"solidifier_bucket",
+   "recipeTime":20,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"input",
+         "energyPerTick":1000000
+      },
+      {
+         "type":"fluid",
+         "io-type":"output",
+         "amount":1000,
+         "fluid":"liquidrf"
+      }
+   ]
+}

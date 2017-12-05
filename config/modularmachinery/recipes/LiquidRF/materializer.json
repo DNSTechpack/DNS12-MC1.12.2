@@ -1,0 +1,18 @@
+{
+   "machine":"materializer",
+   "registryName":"materializer_bucket",
+   "recipeTime":20,
+   "requirements":[
+      {
+         "type":"energy",
+         "io-type":"output",
+         "energyPerTick":1000000
+      },
+      {
+         "type":"fluid",
+         "io-type":"input",
+         "amount":1000,
+         "fluid":"liquidrf"
+      }
+   ]
+}
