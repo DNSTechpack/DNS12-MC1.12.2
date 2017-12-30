@@ -23,7 +23,7 @@
 	  {
          "type": "item",
          "io-type": "output",
-         "item": "mekanism:crystal@2",
+         "item": "mekanism:dust@2",
          "amount": 5
       },
       {

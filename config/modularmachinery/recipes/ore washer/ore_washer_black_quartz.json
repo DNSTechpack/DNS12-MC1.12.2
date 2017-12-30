@@ -23,7 +23,7 @@
 	  {
          "type": "item",
          "io-type": "output",
-         "item": "actuallyadditions:itemdust@7",
+         "item": "actuallyadditions:item_misc@5",
          "amount": 5
       },
       {

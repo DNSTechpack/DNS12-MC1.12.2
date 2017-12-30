@@ -23,7 +23,7 @@
 	  {
          "type": "item",
          "io-type": "output",
-         "item": "mekanism:otherdust@3",
+         "item": "actuallyadditions:item_dust@2",
          "amount": 5
       },
       {
