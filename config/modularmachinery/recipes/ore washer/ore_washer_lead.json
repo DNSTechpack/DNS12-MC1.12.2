@@ -23,7 +23,7 @@
 	  {
          "type": "item",
          "io-type": "output",
-         "item": "mekanism:crystal@6",
+         "item": "thermalfoundation:material:67",
          "amount": 5
       },
       {
