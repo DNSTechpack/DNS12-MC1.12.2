@@ -219,7 +219,7 @@
     {
         "packAuthors":
         {
-            "text" : "Current staff: IAmOmicron, madcock83",
+            "text" : "Current staff: madcock83, IAmOmicron",
             "posX" : -190,
             "posY" : -10,
             "color" : 2422222,
@@ -228,7 +228,7 @@
         
 		"packTxt":
         {
-            "text" : "DNS Techpack 12.0.3.0",
+            "text" : "DNS Techpack 12.0.4.3",
             "posX" : 120,
             "posY" : -10,
             "color" : 2007070,
